@@ -1,0 +1,12 @@
+.checked {
+    color: orange;
+  }
+
+ .Details{
+     font-weight: 700;
+ } 
+
+ .required:after {
+    content:" *";
+    color: red;
+  }
